@@ -1,0 +1,3161 @@
+<!DOCTYPE HTML>
+<html lang='ru'>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <title>Конкурсный список лиц, подавших документы на направление подготовки аспирантов «Информатика и вычислительная техника» (09.06.01) — Сайт для аспирантов</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-c3a3a2c0d7cfd45b6cf22935a926b4e0.ico" />
+
+    <link rel="stylesheet" media="all" href="/assets/application-1c6aaf7fe7ad380090e29dae456afe37.css" />
+    <script src="/assets/application-332ed02f95373a9560fed412bab03ddb.js"></script>
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" media="screen" href="/assets/stop_ie/application-3bc6a67823ed8bcf85b0f390027257ac.css" />
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+    <script src="/assets/stop_ie/application-41c27d1b3933366b2195f2da69e275a1.js"></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <script src="/assets/html5-3355180cfe993a071d1bb6758b0dc6fe.js"></script>
+    <script src="/assets/respond-867519783e5fc0b04b33e54edf4b1805.js"></script>
+    <![endif]-->
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ei6hfHLc/4uRRDt0SiGKDFGuPoZ9/tKbR2MJh+1xKECLZwKBPvnC5tz0BohAI+Ohb9yz79WypK6ovx9/+bR2wg==" />
+
+<meta property='og:site_name' content='Сайт для аспирантов' />
+<meta property='og:title' content='Конкурсные списки лиц, подавших документы на направления подготовки аспирантов' />
+<meta property='og:type' content='website' />
+<meta property='og:url' content='https://postgraduate.tusur.ru/ru/aspirantura/kak-postupit/spiski/ochnaya/2019-09-06-01-informatika-i-vychislitelnaya-tehnika-fulltime?kind_list=all' />
+<meta property='og:locale' content='ru_RU' />
+
+
+
+  </head>
+  <body class='locale-ru'>
+    <div class='cecutient-panel hide-on-normal'>
+  <div class='setting-font-size'>
+    <div>
+      Размер шрифта:
+      <span class='font-size'></span>
+    </div>
+    <div>
+      <a class='reduce-font-size' href='#'>&ndash;</a>
+      <a class='increase-font-size' href='#'>&plus;</a>
+    </div>
+  </div>
+  <div class='setting-color'>
+    <div>
+      Цвет сайта:
+    </div>
+    <div>
+      <a class='color-white' href='#'></a>
+      <a class='color-black' href='#'></a>
+      <a class='color-blue' href='#'></a>
+    </div>
+  </div>
+  <div class='setting-images'>
+    <div>
+      Изображения:
+    </div>
+    <div>
+      <a class='images-show' href='#'>Вкл.</a>
+      <a class='images-hide' href='#'>Выкл.</a>
+    </div>
+  </div>
+</div>
+
+
+    <div class='page_wrapper'>
+      <div class='overlay js-overlay hidden-xs'></div>
+
+
+
+
+
+
+<link href='https://profile.tusur.ru/assets/ptsans.css' rel='stylesheet' type='text/css'>
+
+<style type="text/css">.text-muted {
+  color: #9b9b9b; }
+
+.background-light-green {
+  background-color: #edffd7; }
+
+.collapse-wrapper {
+  position: relative;
+  margin: 5px 0;
+  cursor: pointer; }
+  .collapse-wrapper .link-emulator {
+    position: absolute;
+    margin: auto auto;
+    top: 0;
+    bottom: 0;
+    left: 30px;
+    font-size: 14px;
+    color: #408cc8; }
+  .collapse-wrapper .btn-plus-minus {
+    position: relative;
+    display: inline-block;
+    background: #2f54ad;
+    width: 23px;
+    height: 23px;
+    line-height: 24px;
+    color: #fff;
+    text-align: center;
+    z-index: 1; }
+  .collapse-wrapper.collapsed .btn-plus-minus .plus-minus-element {
+    display: block; }
+    .collapse-wrapper.collapsed .btn-plus-minus .plus-minus-element:before, .collapse-wrapper.collapsed .btn-plus-minus .plus-minus-element:after {
+      content: "";
+      position: absolute;
+      width: 15px;
+      height: 3px;
+      background: #fff;
+      display: block;
+      margin: auto auto;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0; }
+    .collapse-wrapper.collapsed .btn-plus-minus .plus-minus-element:after {
+      height: 15px;
+      width: 3px; }
+  .collapse-wrapper:not(.collapsed) .btn-plus-minus .plus-minus-element {
+    display: block; }
+    .collapse-wrapper:not(.collapsed) .btn-plus-minus .plus-minus-element:before, .collapse-wrapper:not(.collapsed) .btn-plus-minus .plus-minus-element:after {
+      content: "";
+      position: absolute;
+      width: 15px;
+      height: 3px;
+      background: #fff;
+      display: block;
+      margin: auto auto;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0; }
+
+.flash_message {
+  -moz-border-radius-topleft: 0;
+  -webkit-border-top-left-radius: 0;
+  border-top-left-radius: 0;
+  -moz-border-radius-topright: 0;
+  -webkit-border-top-right-radius: 0;
+  border-top-right-radius: 0;
+  border-top: 0;
+  cursor: pointer;
+  left: 50%;
+  margin-left: -210px;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 420px;
+  z-index: 99999; }
+
+.tusur-cdn-overall-tusur-header {
+  line-height: 1;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  z-index: 999;
+  min-height: 42px; }
+  .tusur-cdn-overall-tusur-header * {
+    font-size: 16px; }
+    .tusur-cdn-overall-tusur-header *:before, .tusur-cdn-overall-tusur-header *:after {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box; }
+  .tusur-cdn-overall-tusur-header.tusur-cdn-wrapper {
+    font-family: PT Sans, sans-serif;
+    position: static;
+    background-color: #d1d4d3; }
+  .tusur-cdn-overall-tusur-header .tusur-cdn-container {
+    position: relative;
+    margin: 0;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    min-height: 42px; }
+    .tusur-cdn-overall-tusur-header .tusur-cdn-container:before, .tusur-cdn-overall-tusur-header .tusur-cdn-container:after {
+      content: "";
+      display: table; }
+    @media (max-width: 767px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-container {
+        width: auto; } }
+    @media (min-width: 768px) and (max-width: 991px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-container {
+        width: 750px; } }
+    @media (min-width: 992px) and (max-width: 1199px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-container {
+        width: 970px; } }
+    @media (min-width: 1200px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-container {
+        width: 1170px; } }
+  .tusur-cdn-overall-tusur-header .tusur-cdn-row {
+    margin-left: -15px;
+    margin-right: -15px;
+    min-height: 42px; }
+    .tusur-cdn-overall-tusur-header .tusur-cdn-row:before, .tusur-cdn-overall-tusur-header .tusur-cdn-row:after {
+      display: table;
+      content: " "; }
+    .tusur-cdn-overall-tusur-header .tusur-cdn-row:after {
+      clear: both; }
+  .tusur-cdn-overall-tusur-header .tusur-cdn-col {
+    width: auto;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    min-height: 42px; }
+  .tusur-cdn-overall-tusur-header a {
+    color: #000;
+    text-decoration: none; }
+    .tusur-cdn-overall-tusur-header a:active, .tusur-cdn-overall-tusur-header a:focus, .tusur-cdn-overall-tusur-header a:hover, .tusur-cdn-overall-tusur-header a:visited {
+      color: #000;
+      text-decoration: none; }
+  .tusur-cdn-overall-tusur-header ol, .tusur-cdn-overall-tusur-header ul {
+    list-style-type: none;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0; }
+    .tusur-cdn-overall-tusur-header ol li, .tusur-cdn-overall-tusur-header ul li {
+      list-style: none; }
+  .tusur-cdn-overall-tusur-header .tusur-cdn-caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-top: 4px dashed;
+    border-top: 4px solid;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent; }
+  .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list {
+    float: left;
+    min-height: 42px; }
+    .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list span.block {
+      cursor: pointer; }
+    .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list .tusur-cdn-sites-list-toggler {
+      display: none; }
+    @media (max-width: 767px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list {
+        width: 20%;
+        position: relative; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li .block {
+          padding: 10px 12px; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list ul {
+          display: none;
+          position: absolute;
+          background-color: #d1d4d3;
+          top: 100%;
+          left: 0;
+          margin-bottom: 15px; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list ul li {
+            display: block; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list ul li a:hover {
+              background-color: #d1d4d3 !important; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list ul li .tusur-cdn-caret {
+              display: none; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list ul li .tusur-cdn-submenu {
+              display: block;
+              position: static;
+              background-color: #d1d4d3;
+              box-shadow: none;
+              margin-bottom: 0; }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list ul li .tusur-cdn-submenu li {
+                margin-right: 20px; }
+                .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list ul li .tusur-cdn-submenu li:before {
+                  display: block;
+                  content: "-";
+                  float: left;
+                  margin: 5px 10px 0 15px; }
+                .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list ul li .tusur-cdn-submenu li a {
+                  background-color: #d1d4d3 !important; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list.opened ul {
+          display: block; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list .tusur-cdn-sites-list-toggler {
+          position: absolute;
+          top: 8px;
+          left: 0;
+          display: block;
+          width: 24px;
+          height: 24px;
+          line-height: 24px;
+          font-size: 26px;
+          padding: 0;
+          margin: 0; } }
+    @media (min-width: 768px) and (max-width: 991px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list {
+        width: 64%; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li .block {
+          padding: 10px 12px; } }
+    @media (min-width: 992px) and (max-width: 1199px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list {
+        width: 72%; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li .block {
+          padding: 10px 5px; } }
+    @media (min-width: 1200px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list {
+        width: 75%; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li .block {
+          padding: 10px 12px; } }
+    .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li {
+      position: relative;
+      display: inline-block;
+      min-height: 42px; }
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li .block {
+        cursor: pointer;
+        display: block;
+        min-height: 42px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box; }
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li:hover:not(.mobile) .block {
+        background: #f5f5f5; }
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li:hover:not(.mobile) .tusur-cdn-submenu {
+        display: block; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li:hover:not(.mobile) .tusur-cdn-submenu a {
+          background-color: #fff; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li:hover:not(.mobile) .tusur-cdn-submenu a:hover {
+            background-color: #f5f5f5; }
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li.mobile.opened a {
+        background-color: #f5f5f5; }
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li.mobile.opened .tusur-cdn-submenu {
+        display: block; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list li.mobile.opened .tusur-cdn-submenu a {
+          background-color: #fff; }
+    .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list .tusur-cdn-submenu {
+      display: none;
+      position: absolute;
+      left: 0;
+      top: 100%;
+      background-color: #fff;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+      z-index: 999; }
+      .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list .tusur-cdn-submenu li {
+        display: block;
+        min-height: auto; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list .tusur-cdn-submenu li a {
+          font-size: 14px;
+          display: block;
+          min-height: auto;
+          white-space: nowrap;
+          padding: 8px 12px; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-sites-list .tusur-cdn-submenu li a:hover {
+            background-color: #f5f5f5; }
+  .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block {
+    float: right;
+    text-align: right;
+    min-height: 42px; }
+    .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul {
+      min-height: 42px; }
+      .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li {
+        position: relative;
+        display: inline-block;
+        line-height: 1.2;
+        vertical-align: middle;
+        min-height: 42px; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li a {
+          display: block;
+          min-height: 42px;
+          padding: 10px 6px;
+          -webkit-box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          box-sizing: border-box; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li a:hover {
+            background: #f5f5f5; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons {
+          width: 40px;
+          position: relative;
+          margin-right: -4px; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons:hover {
+            background-color: #f5f5f5;
+            cursor: pointer; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons.active {
+            background: #f5f5f5; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-bell-wrapper {
+            position: absolute;
+            margin: auto auto;
+            width: 15px;
+            height: 15px;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-bell-wrapper .tusur-cdn-changelogs-bell {
+              background-color: #9a9a9a;
+              position: absolute;
+              width: 9px;
+              height: 9px;
+              margin: auto auto;
+              top: 0;
+              left: 0;
+              right: 0;
+              bottom: 0;
+              border-top-right-radius: 50%;
+              border-top-left-radius: 50%;
+              cursor: pointer; }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-bell-wrapper .tusur-cdn-changelogs-bell:before, .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-bell-wrapper .tusur-cdn-changelogs-bell:after {
+                content: "";
+                position: absolute;
+                background-color: inherit; }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-bell-wrapper .tusur-cdn-changelogs-bell:before {
+                -moz-border-radius-topright: 100px;
+                -webkit-border-top-right-radius: 100px;
+                border-top-right-radius: 100px;
+                -moz-border-radius-topleft: 100px;
+                -webkit-border-top-left-radius: 100px;
+                border-top-left-radius: 100px;
+                width: 13px;
+                height: 7px;
+                left: -2px;
+                bottom: -2px; }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-bell-wrapper .tusur-cdn-changelogs-bell:after {
+                -moz-border-radius-bottomright: 100px;
+                -webkit-border-bottom-right-radius: 100px;
+                border-bottom-right-radius: 100px;
+                -moz-border-radius-bottomleft: 100px;
+                -webkit-border-bottom-left-radius: 100px;
+                border-bottom-left-radius: 100px;
+                width: 5px;
+                height: 2px;
+                margin: auto auto;
+                top: 11px;
+                left: 0;
+                right: 0; }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-bell-wrapper .tusur-cdn-changelogs-bell .tusur-cdn-changelogs-bell-tail {
+                position: absolute;
+                background: #9a9a9a;
+                width: 1px;
+                height: 2px;
+                margin: 0 auto;
+                top: -2px;
+                left: 0;
+                right: 0; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content {
+            display: none;
+            position: absolute;
+            top: 100%; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open {
+              display: block;
+              background: #ffffff;
+              -moz-border-radius: 5px;
+              -webkit-border-radius: 5px;
+              border-radius: 5px;
+              padding: 8px 25px 8px 10px;
+              -moz-box-shadow: 0px 1px 10px -2px #757575;
+              -webkit-box-shadow: 0px 1px 10px -2px #757575;
+              box-shadow: 0px 1px 10px -2px #757575; }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open:after {
+                bottom: 100%;
+                left: 15%;
+                border: solid transparent;
+                content: " ";
+                height: 0;
+                width: 0;
+                position: absolute;
+                pointer-events: none; }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open:after {
+                border-color: 1px solid #ccc;
+                border-bottom-color: #ffffff;
+                border-width: 6px;
+                left: 15px; }
+              @media (max-width: 767px) {
+                .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open {
+                  margin-left: -12px; }
+                  .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open:after {
+                    left: 27px; } }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block {
+                position: relative; }
+                .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block .nowrap {
+                  white-space: nowrap; }
+                .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block a {
+                  min-height: auto;
+                  padding: 0;
+                  color: #337ab7;
+                  cursor: pointer; }
+                  .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block a:hover {
+                    background: #fff;
+                    color: #23527c; }
+                .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block .tusur-cdn-changelogs-content-close-cross {
+                  position: absolute;
+                  left: 5px;
+                  cursor: pointer;
+                  top: 2px;
+                  width: 10px;
+                  height: 10px;
+                  display: block; }
+@-moz-document url-prefix() {
+  .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block .tusur-cdn-changelogs-content-close-cross {
+    top: 15px; } }
+                  .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block .tusur-cdn-changelogs-content-close-cross:before, .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block .tusur-cdn-changelogs-content-close-cross:after {
+                    content: "";
+                    position: absolute;
+                    background-color: #d3d3d3;
+                    width: 2px;
+                    height: 12px;
+                    left: 5px; }
+                  .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block .tusur-cdn-changelogs-content-close-cross:after {
+                    -moz-transform: rotate(45deg);
+                    -ms-transform: rotate(45deg);
+                    -webkit-transform: rotate(45deg);
+                    transform: rotate(45deg); }
+                  .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block .tusur-cdn-changelogs-content-close-cross:before {
+                    -moz-transform: rotate(-45deg);
+                    -ms-transform: rotate(-45deg);
+                    -webkit-transform: rotate(-45deg);
+                    transform: rotate(-45deg); }
+                .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block span {
+                  float: left;
+                  white-space: nowrap;
+                  margin: 2px 0; }
+                  .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block span.date {
+                    font-size: 12px;
+                    color: #9a9a9a; }
+                  .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons .tusur-cdn-changelogs-content.open .tusur-cdn-changelogs-content-block span.title {
+                    font-weight: bold; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons.with-new-changes .tusur-cdn-changelogs-bell-wrapper .tusur-cdn-changelogs-bell .circle {
+            position: absolute;
+            margin: auto auto;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-changelogs-icons.with-new-changes .tusur-cdn-changelogs-bell-wrapper .tusur-cdn-changelogs-bell .circle:before {
+              content: "";
+              position: absolute;
+              width: 8px;
+              height: 8px;
+              left: -3px;
+              top: -1px;
+              background: #d23841;
+              -moz-border-radius: 50%;
+              -webkit-border-radius: 50%;
+              border-radius: 50%;
+              animation: dot_pulse 1s linear 1s infinite alternate none; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-notification-icons {
+          position: relative;
+          margin-right: -4px; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-notification-icons .tusur-cdn-counter {
+            font-size: 14px;
+            display: inline-block;
+            margin-right: 22px;
+            margin-top: 3px; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-notification-icons .tusur-cdn-counter.tusur-cdn-counter-empty {
+              color: #999; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-notification-icons img {
+            position: absolute;
+            top: 13px;
+            right: 6px; }
+        .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown {
+          border-left: 1px solid #ccc; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown .tusur-cdn-user {
+            cursor: pointer;
+            position: relative;
+            display: inline-block;
+            min-height: 42px;
+            padding: 9px 6px;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown .tusur-cdn-user img {
+              position: absolute;
+              top: 8px;
+              left: 6px; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown .tusur-cdn-user .tusur-cdn-username {
+              display: inline-block;
+              margin-left: 30px;
+              margin-top: 3px; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown .tusur-cdn-dropdown-menu {
+            display: none;
+            position: absolute;
+            right: 0;
+            top: 100%;
+            min-height: auto;
+            border-radius: 0;
+            background-color: #fff;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+            background-clip: padding-box;
+            z-index: 999;
+            overflow-y: auto;
+            max-height: 324px; }
+            .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown .tusur-cdn-dropdown-menu li {
+              text-align: left;
+              display: block;
+              min-height: auto; }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown .tusur-cdn-dropdown-menu li a {
+                font-size: 14px;
+                display: block;
+                max-width: 270px;
+                min-height: auto;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                padding: 8px 12px; }
+                .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown .tusur-cdn-dropdown-menu li a:hover {
+                  background-color: #f5f5f5; }
+              .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown .tusur-cdn-dropdown-menu li.divider {
+                border-top: 1px solid #ccc;
+                height: 1px !important;
+                line-height: 1px !important;
+                padding: 0 !important; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown:hover:not(.mobile) .tusur-cdn-user {
+            background-color: #f5f5f5; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown:hover:not(.mobile) .tusur-cdn-dropdown-menu {
+            display: block; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown.mobile.opened .tusur-cdn-user {
+            background-color: #f5f5f5; }
+          .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block ul li.tusur-cdn-dropdown.mobile.opened .tusur-cdn-dropdown-menu {
+            display: block; }
+    @media (max-width: 767px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block {
+        width: 80%; } }
+    @media (min-width: 768px) and (max-width: 991px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block {
+        width: 36%; } }
+    @media (min-width: 992px) and (max-width: 1199px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block {
+        width: 28%; } }
+    @media (min-width: 1200px) {
+      .tusur-cdn-overall-tusur-header .tusur-cdn-auth-block {
+        width: 25%; } }
+
+.demo-header-info {
+  display: inline-block;
+  width: 40%;
+  padding: 5px 0 10px 15px;
+  vertical-align: top; }
+  .demo-header-info__title {
+    display: block;
+    font-weight: bold; }
+  .demo-header-info__subtitle {
+    font-size: 14px; }
+  @media (min-width: 768px) and (max-width: 991px) {
+    .demo-header-info {
+      padding-left: 0;
+      width: 50%; } }
+  @media (max-width: 767px) {
+    .demo-header-info {
+      width: 100%; } }
+
+.demo-header-contacts {
+  display: inline-block;
+  padding: 6px 0 10px 15px;
+  width: 20%;
+  line-height: 22px;
+  vertical-align: top; }
+  .demo-header-contacts__title {
+    display: block;
+    font-weight: bold; }
+  .demo-header-contacts__subtitle {
+    font-size: 14px;
+    display: block; }
+  @media (min-width: 768px) and (max-width: 991px) {
+    .demo-header-contacts {
+      padding-left: 0;
+      width: 24%; } }
+  @media (max-width: 767px) {
+    .demo-header-contacts {
+      width: 50%; } }
+
+.demo-header-auth {
+  width: 25% !important; }
+  .demo-header-auth a.demo-header-auth__link {
+    color: #3366cc;
+    font-size: 16px;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    display: block; }
+    .demo-header-auth a.demo-header-auth__link:hover {
+      text-decoration: underline; }
+    .demo-header-auth a.demo-header-auth__link:first-of-type {
+      margin-top: 5px; }
+    .demo-header-auth a.demo-header-auth__link:last-of-type {
+      margin-bottom: 5px; }
+  .demo-header-auth__info li:first-child {
+    padding: 2px 0; }
+  .demo-header-auth .tusur-cdn-username {
+    margin-left: 10px !important; }
+  @media (max-width: 767px) {
+    .demo-header-auth {
+      width: 100% !important; } }
+
+@keyframes dot_pulse {
+  0% {
+    opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    -khtml-opacity: 1; }
+  100% {
+    opacity: 0.3;
+    -webkit-opacity: 0.3;
+    -moz-opacity: 0.3;
+    -khtml-opacity: 0.3; } }
+</style>
+
+<div class='tusur-cdn-overall-tusur-header tusur-cdn-wrapper'>
+  <div class='tusur-cdn-overall-tusur-header tusur-cdn-container'>
+    <div class='tusur-cdn-overall-tusur-header tusur-cdn-row'>
+      <div class='tusur-cdn-overall-tusur-header tusur-cdn-col'>
+
+          <div class='tusur-cdn-sites-list'>
+            <span class='tusur-cdn-sites-list-toggler'>&#9783;</span>
+            <ul>
+
+                <li>
+
+                    <a class='block' href='https://tusur.ru'>
+                      О ТУСУРе
+                      <span class="tusur-cdn-caret"></span>
+                    </a>
+
+
+                    <ul class='tusur-cdn-submenu'>
+
+                        <li>
+                          <a href='https://tusur.ru/ru/o-tusure/struktura-i-organy-upravleniya' class='struktura'>
+                            Структура и органы управления
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://tusur.ru/ru/obrazovanie' class='obrazovanie'>
+                            Образование
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://tusur.ru/ru/nauka-i-innovatsii' class='nauka-i-innovatsii'>
+                            Наука и инновации
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://tusur.ru/ru/sotrudnichestvo' class='sotrudnichestvo'>
+                            Сотрудничество
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://tusur.ru/ru/novosti-i-meropriyatiya' class='novosti-i-meropriyatiya'>
+                            Новости и мероприятия
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://sport.tusur.ru' class='sport'>
+                            Спорт в ТУСУРе
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://directory.tusur.ru' class='directory'>
+                            Телефонный справочник
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://tusur.ru/sveden' class='sveden'>
+                            Сведения об образовательной организации
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://regulations.tusur.ru' class='baza-normativnyh-documentov'>
+                            База нормативных документов
+                          </a>
+                        </li>
+
+                    </ul>
+
+                </li>
+
+                <li>
+
+                    <a class='block' href='https://abiturient.tusur.ru'>
+                      Абитуриентам
+                      <span class="tusur-cdn-caret"></span>
+                    </a>
+
+
+                    <ul class='tusur-cdn-submenu'>
+
+                        <li>
+                          <a href='https://priem.tusur.ru' class='kabinet'>
+                            Кабинет абитуриента
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://abiturient.tusur.ru/ru/napravleniya-podgotovki/ochnaya-forma-obucheniya' class='napravleniya-podgotovki'>
+                            Направления подготовки бакалавров и специалистов
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://magistrant.tusur.ru/ru/magisterskie-programmy/ochnaya-forma-obucheniya' class='magisterskie-programmy'>
+                            Магистерские программы
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://abiturient.tusur.ru/ru/kak-postupit/ochnaya-forma-obucheniya?type=vst_ege,doc_budget,zach_budget,info' class='kalendar'>
+                            Календарь абитуриента
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://abiturient.tusur.ru/ru/kontakty#comissions' class='punkty-vyezda'>
+                            Пункты выезда приёмных комиссий
+                          </a>
+                        </li>
+
+                    </ul>
+
+                </li>
+
+                <li>
+
+                    <a class='block' href='https://tusur.ru/ru/studentam'>
+                      Студентам
+                      <span class="tusur-cdn-caret"></span>
+                    </a>
+
+
+                    <ul class='tusur-cdn-submenu'>
+
+                        <li>
+                          <a href='https://timetable.tusur.ru' class='raspisanie'>
+                            Расписание занятий
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://edu.tusur.ru' class='edu'>
+                            Научно-образовательный портал
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://lib.tusur.ru' class='biblioteka'>
+                            Библиотека
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://gpo.tusur.ru' class='gpo'>
+                            Групповое проектное обучение
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://attendance.tusur.ru' class='attendance'>
+                            Журнал посещаемости
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://ocenka.tusur.ru' class='ocenka'>
+                            Журнал успеваемости
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://sport.tusur.ru' class='sport'>
+                            Спорт в ТУСУРе
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='http://studprof.tusur.ru' class='studprof'>
+                            Профком студентов
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='http://aist.tusur.ru' class='aist'>
+                            Содействие трудоустройству
+                          </a>
+                        </li>
+
+                    </ul>
+
+                </li>
+
+                <li>
+
+                    <a class='block' href='https://postgraduate.tusur.ru'>
+                      Аспирантам
+                      <span class="tusur-cdn-caret"></span>
+                    </a>
+
+
+                    <ul class='tusur-cdn-submenu'>
+
+                        <li>
+                          <a href='https://postgraduate.tusur.ru/ru/aspirantura/kak-postupit' class='postuplenie-v-aspiranturu'>
+                            Поступление в аспирантуру
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://postgraduate.tusur.ru/ru/aspirantura/napravleniya-podgotovki-aspirantov' class='napravleniya-podgotovki'>
+                            Направления подготовки
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://postgraduate.tusur.ru/ru/dissertatsionnye-sovety' class='dissertatsionnye-sovety'>
+                            Диссертационные советы
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://edu.tusur.ru' class='edu'>
+                            Научно-образовательный портал
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://lib.tusur.ru' class='biblioteka'>
+                            Библиотека
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://journal.tusur.ru' class='journal'>
+                            Журнал «Доклады ТУСУР»
+                          </a>
+                        </li>
+
+                    </ul>
+
+                </li>
+
+                <li>
+
+                    <a class='block' href='https://tusur.ru/ru/sotrudnikam'>
+                      Сотрудникам
+                      <span class="tusur-cdn-caret"></span>
+                    </a>
+
+
+                    <ul class='tusur-cdn-submenu'>
+
+                        <li>
+                          <a href='https://directory.tusur.ru' class='directory'>
+                            Телефонный справочник
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://timetable.tusur.ru' class='raspisanie'>
+                            Расписание занятий
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://edu.tusur.ru' class='edu'>
+                            Научно-образовательный портал
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://lib.tusur.ru' class='biblioteka'>
+                            Библиотека
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://attendance.tusur.ru' class='attendance'>
+                            Журнал посещаемости
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://ocenka.tusur.ru' class='ocenka'>
+                            Журнал успеваемости
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://workprogram.tusur.ru' class='workprogram'>
+                            Генератор рабочих программ
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://effective-contracts.tusur.ru' class='effective-contracts'>
+                            Показатели эффективности труда ППС
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='https://sport.tusur.ru' class='sport'>
+                            Спорт в ТУСУРе
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='http://profkom.tusur.ru' class='profkom'>
+                            Профком сотрудников
+                          </a>
+                        </li>
+
+                    </ul>
+
+                </li>
+
+                <li>
+
+                    <a class='block' href='https://avt.tusur.ru'>
+                      Выпускникам
+                      <span class="tusur-cdn-caret"></span>
+                    </a>
+
+
+                    <ul class='tusur-cdn-submenu'>
+
+                        <li>
+                          <a href='https://avt.tusur.ru' class='avt'>
+                            Ассоциация выпускников ТУСУР
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href='http://aist.tusur.ru' class='aist'>
+                            Содействие трудоустройству
+                          </a>
+                        </li>
+
+                    </ul>
+
+                </li>
+
+            </ul>
+          </div>
+
+
+
+        <!-- user account -->
+        <div class='tusur-cdn-auth-block '>
+
+            <ul>
+
+                <li class='tusur-cdn-sign-in'>
+                  <a href="https://profile.tusur.ru/users/sign_in?redirect_url=https%3A%2F%2Fpostgraduate.tusur.ru%2Fru%2Faspirantura%2Fkak-postupit%2Fspiski%2Fochnaya%2F2019-09-06-01-informatika-i-vychislitelnaya-tehnika-fulltime%3Fkind_list%3Dall">Войти</a>
+                </li>
+
+            </ul>
+
+        </div>
+        <!-- / user account -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type='text/javascript'>
+  (function() {
+  var changelogs_bell, dropdownModule, hide_changelogs_content, jsonpMarkAsRead, remove_circle, show_changelogs_content, tusur_cdn_next_siblings, tusur_cdn_parents, tusur_cdn_prev_siblings, tusur_cdn_siblings;
+
+  tusur_cdn_prev_siblings = function(target) {
+    var n, siblings;
+    siblings = [];
+    n = target;
+    while (n = n.previousElementSibling) {
+      siblings.push(n);
+    }
+    return siblings;
+  };
+
+  tusur_cdn_next_siblings = function(target) {
+    var n, siblings;
+    siblings = [];
+    n = target;
+    while (n = n.nextElementSibling) {
+      siblings.push(n);
+    }
+    return siblings;
+  };
+
+  tusur_cdn_siblings = function(target) {
+    var next, prev;
+    prev = tusur_cdn_prev_siblings(target) || [];
+    next = tusur_cdn_next_siblings(target) || [];
+    return prev.concat(next);
+  };
+
+  tusur_cdn_parents = function(target, klass) {
+    var elements;
+    if (klass == null) {
+      klass = null;
+    }
+    elements = [];
+    while (target !== null) {
+      target = target.parentNode;
+      elements.unshift(target);
+      if (klass !== null && target !== null && target.classList !== void 0) {
+        if (target.classList.contains(klass)) {
+          return elements;
+        }
+      }
+    }
+    return elements;
+  };
+
+  dropdownModule = function() {
+    var all_dropdown_menu, all_dropdown_toggler, all_dropdown_toggler_hidden, document_onclick, dropdown_togglers, i, li, links, user_toggler;
+    user_toggler = document.querySelector('.tusur-cdn-auth-block > ul > li.tusur-cdn-dropdown');
+    all_dropdown_toggler = document.querySelector('.tusur-cdn-sites-list-toggler');
+    all_dropdown_toggler_hidden = all_dropdown_toggler.offsetParent === null;
+    all_dropdown_menu = document.querySelector('.tusur-cdn-sites-list ul');
+    document_onclick = function(e) {
+      var dropdown_li, i, opened_count, parents;
+      parents = tusur_cdn_parents(e.target, 'opened');
+      opened_count = document.querySelectorAll('.opened').length;
+      if (parents[0] !== null && parents[0].classList.contains('opened') && opened_count === 1) {
+        return;
+      }
+      i = 0;
+      dropdown_li = document.querySelectorAll('.tusur-cdn-sites-list > ul > li');
+      while (i < dropdown_li.length) {
+        dropdown_li[i].classList.remove('opened');
+        i++;
+      }
+      if (user_toggler !== null && parents[0] !== user_toggler) {
+        user_toggler.classList.remove('opened');
+      }
+      if (all_dropdown_menu !== null && parents[0] !== all_dropdown_menu.parentElement) {
+        all_dropdown_menu.parentElement.classList.remove('opened');
+      }
+    };
+    document.ontouchstart = function(e) {
+      document_onclick(e);
+    };
+    document.onclick = function(e) {
+      document_onclick(e);
+    };
+    all_dropdown_toggler.onclick = function() {
+      all_dropdown_menu.parentElement.classList.toggle('opened');
+    };
+    li = document.querySelectorAll('.tusur-cdn-sites-list > ul > li');
+    i = 0;
+    while (i < li.length) {
+      li[i].classList.add('mobile');
+      i++;
+    }
+    dropdown_togglers = document.querySelectorAll('.tusur-cdn-sites-list > ul > li > .block');
+    i = 0;
+    while (i < dropdown_togglers.length) {
+      dropdown_togglers[i].onclick = function() {
+        var dropdown_li, dropdown_menu, dropdown_siblings, j;
+        dropdown_li = this.parentElement;
+        dropdown_siblings = tusur_cdn_siblings(dropdown_li);
+        j = 0;
+        while (j < dropdown_siblings.length) {
+          dropdown_siblings[j].classList.remove('opened');
+          j++;
+        }
+        if (user_toggler !== null) {
+          user_toggler.classList.remove('opened');
+        }
+        dropdown_menu = dropdown_li.querySelector('ul');
+        if (dropdown_menu === void 0 || dropdown_menu === null) {
+          return;
+        }
+        if (dropdown_li.classList.contains('opened')) {
+          dropdown_li.classList.remove('opened');
+          return;
+        } else {
+          dropdown_li.classList.add('opened');
+        }
+        if (all_dropdown_toggler_hidden) {
+          return false;
+        }
+      };
+      i++;
+    }
+    links = document.querySelectorAll('.tusur-cdn-sites-list > ul > li > ul > li > a');
+    i = 0;
+    while (i < links.length) {
+      links[i].onclick = function() {
+        return this.parentElement.parentElement.parentElement.classList.remove('opened');
+      };
+      i++;
+    }
+    if (user_toggler !== null) {
+      user_toggler.classList.add('mobile');
+      user_toggler.onclick = function() {
+        this.classList.toggle('opened');
+        li = document.querySelectorAll('.tusur-cdn-sites-list > ul > li');
+        i = 0;
+        while (i < li.length) {
+          li[i].classList.remove('opened');
+          i++;
+        }
+      };
+    }
+    if (!all_dropdown_toggler_hidden) {
+      li = all_dropdown_menu.querySelectorAll('a');
+      i = 0;
+      while (i < li.length) {
+        li[i].onclick = function() {
+          all_dropdown_menu.parentElement.classList.remove('opened');
+        };
+        i++;
+      }
+    }
+  };
+
+  jsonpMarkAsRead = function() {
+    var script, url;
+    if (document.getElementById('close_change_log') === null) {
+      return;
+    }
+    window.jsonpHandler = function() {
+      if (arguments[0].ok === 'ok') {
+        return remove_circle();
+      }
+    };
+    script = document.createElement('script');
+    url = document.getElementById('close_change_log').getAttribute('data-mark-as-read-url');
+    script.src = url + "?callback=jsonpHandler";
+    document.getElementsByTagName('head')[0].appendChild(script);
+    return false;
+  };
+
+  show_changelogs_content = function(object, parent_object) {
+    object[0].className += ' open';
+    return parent_object.className += ' active';
+  };
+
+  hide_changelogs_content = function(object, parent_object) {
+    object[0].classList.remove('open');
+    return parent_object.classList.remove('active');
+  };
+
+  remove_circle = function() {
+    return document.getElementsByClassName('tusur-cdn-changelogs-icons')[0].classList.remove('with-new-changes');
+  };
+
+  changelogs_bell = function() {
+    var bell, changelogs_content, changelogs_wrapper, close_cross;
+    changelogs_wrapper = document.getElementsByClassName('tusur-cdn-changelogs-icons')[0];
+    changelogs_content = document.getElementsByClassName('tusur-cdn-changelogs-content');
+    close_cross = document.getElementsByClassName('tusur-cdn-changelogs-content-close-cross');
+    bell = document.getElementsByClassName('js-tusur-cdn-bell');
+    if (bell[0]) {
+      bell[0].addEventListener('click', function() {
+        if (changelogs_content[0].classList.contains('open')) {
+          return hide_changelogs_content(changelogs_content, changelogs_wrapper);
+        } else {
+          return show_changelogs_content(changelogs_content, changelogs_wrapper);
+        }
+      });
+      return close_cross[0].addEventListener('click', function(event) {
+        event.stopPropagation();
+        hide_changelogs_content(changelogs_content, changelogs_wrapper);
+        return jsonpMarkAsRead();
+      });
+    }
+  };
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var supportsTouch;
+    supportsTouch = 'ontouchstart' in window || navigator.msMaxTouchPoints;
+    changelogs_bell();
+    if (!supportsTouch) {
+      return;
+    }
+    dropdownModule();
+  });
+
+}).call(this);
+
+</script>
+
+    <div class='tusur-cdn-header-subtop'>
+
+  <div class='container-fluid subtop-header'>
+  <div class='container'>
+    <div class='header'>
+      <div class='row'>
+
+        <div class='col-lg-8 col-md-8 col-sm-7 col-xs-12'>
+          <div class='logotype'>
+            <div class='image-wrapper'>
+              <a class="image" href="/">
+                <img class="img-responsive" src="/assets/logotype-5aab5364c2c40ae4144a808cd11086ff.png" alt="Logotype" />
+</a>            </div>
+            <div class='site-name-wrapper visible-lg'>
+              <a class="site-name" href="/">Подготовка кадров высшей научной квалификации ТУСУР</a>
+            </div>
+          </div>
+        </div>
+
+        <div class='col-lg-4 col-md-4 col-sm-5 col-xs-12'>
+          <div class="search search-block pull-right">
+            <form class="simple_form search" action="/ru/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+              <div class="form-group string required search_q"><input name="parts_params[search][q]" placeholder="Поиск..." class="string required form-control" required="required" aria-required="true" type="text" id="search_q" /></div>
+              <div class='form-actions'>
+                <a onclick="$(this).closest(&quot;form&quot;).submit(); return false;" href="#"></a>
+              </div>
+</form>          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+    <div class='tusur-cdn-header-menu'>
+          <div class='container'>
+      <div class='row'>
+        <div class='col-xs-12'>
+          <span class='tusur-cdn-header-menu-toggler visible-xs'>&#9776;</span>
+          <ul class='nav nav-pills col-sm-12'>
+              <li class='dropdown active'>
+    <a data-link-for="aspirantura" href="/ru/aspirantura">Аспирантура</a>
+      <ul class='dropdown-menu hidden-xs'>
+          <li>
+            <a data-link-for="obuchenie" href="/ru/aspirantura/obuchenie">Обучение</a>
+</li>          <li>
+            <a data-link-for="napravleniya-podgotovki-aspirantov" href="/ru/aspirantura/napravleniya-podgotovki-aspirantov">Направления подготовки</a>
+</li>          <li class="active">
+            <a data-link-for="kak-postupit" href="/ru/aspirantura/kak-postupit">Как поступить</a>
+</li>          <li>
+            <a data-link-for="elitnaya-aspirantura" href="/ru/aspirantura/elitnaya-aspirantura">Элитная аспирантура</a>
+</li>      </ul>
+  </li>
+  <li class='dropdown '>
+    <a data-link-for="doktorantura" href="/ru/doktorantura">Докторантура</a>
+      <ul class='dropdown-menu hidden-xs'>
+          <li>
+            <a data-link-for="nauchnye-spetsialnosti-doktorantury" href="/ru/doktorantura/nauchnye-spetsialnosti-doktorantury">Научные специальности докторантуры</a>
+</li>          <li>
+            <a data-link-for="poryadok-podgotovki-dissertatsii" href="/ru/doktorantura/poryadok-podgotovki-dissertatsii">Порядок подготовки диссертации</a>
+</li>      </ul>
+  </li>
+  <li class='dropdown '>
+    <a data-link-for="dissertatsionnye-sovety" href="/ru/dissertatsionnye-sovety">Диссертационные советы</a>
+  </li>
+  <li class='dropdown '>
+    <a data-link-for="dokumenty" href="/ru/dokumenty">Документы</a>
+      <ul class='dropdown-menu hidden-xs'>
+          <li>
+            <a data-link-for="obraztsy-dokumentov" href="/ru/dokumenty/obraztsy-dokumentov">Образцы документов</a>
+</li>          <li>
+            <a data-link-for="normativno-pravovye-dokumenty" href="/ru/dokumenty/normativno-pravovye-dokumenty">Нормативно-правовые документы</a>
+</li>          <li>
+            <a data-link-for="dlya-zaschity-dissertatsii" href="/ru/dokumenty/dlya-zaschity-dissertatsii">Для защиты диссертации</a>
+</li>          <li>
+            <a data-link-for="prikazy" href="/ru/dokumenty/prikazy">Приказы</a>
+</li>      </ul>
+  </li>
+  <li class='dropdown '>
+    <a data-link-for="ob-yavleniya-o-zaschitah-dissertatsiy" href="/ru/ob-yavleniya-o-zaschitah-dissertatsiy">Объявления о защитах</a>
+  </li>
+  <li class='dropdown '>
+    <a data-link-for="kontakty" href="/ru/kontakty">Контакты</a>
+  </li>
+  <li class='dropdown '>
+    <a data-link-for="ob-yavleniya-o-zasedaniyah-po-lisheniyu-stepeni-i-apellyatsiyah" href="/ru/ob-yavleniya-o-zasedaniyah-po-lisheniyu-stepeni-i-apellyatsiyah">Объявления о заседаниях по лишению степени и апелляциях</a>
+  </li>
+
+
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    </div>
+
+
+      <div class='inner-page-wrapper'>
+  <div class='container'>
+    <div class='row'>
+      <div class='col-xs-12 left-side'>
+
+
+  <div class='breadcrumbs noindex'>
+      <a href="/ru">Аспирант ТУСУР</a> /
+      <a href="/ru/aspirantura">Аспирантура</a> /
+      <a href="/ru/aspirantura/kak-postupit">Как поступить</a> /
+      <a href="/ru/aspirantura/kak-postupit/spiski/ochnaya">Конкурсные списки лиц, подавших документы на направления подготовки аспирантов очной формы обучения в ТУСУРе</a> /
+    Конкурсный список лиц, подавших документы на направление подготовки аспирантов
+      &laquo;Информатика и вычислительная техника&raquo; (09.06.01)
+  </div>
+
+          <div class='content index'>
+
+            <h1>
+              Конкурсный список лиц, подавших документы на
+              направление подготовки аспирантов
+              &laquo;Информатика и вычислительная техника&raquo; (09.06.01)
+            </h1>
+
+            <div class='pull-right'>
+              <span>Данные на 14 сентября 2019, 08:45</span>
+
+            </div>
+            <p>бюджетных мест: 8, платных мест: 24</p>
+
+            <div class='entrant-lists'>
+
+                <h2 class='margin-bottom-20'>
+                  <b>Конкурсный список лиц, подавших документы на бюджетные места</b>
+                </h2>
+
+                <div class='btn-group margin-bottom-20' role='group'>
+                  <a class="first-priority-list btn btn-default" href="?kind_list=enrollment">
+                    По текущему выбору
+</a>                  <a class="full-list btn btn-primary" href="?kind_list=all">
+                    Полный список
+</a>                </div>
+
+                <div class='margin-bottom-20 js-contest-order'>
+                    <label class="original-order-toggler js-original-order-toggler" for="original-order">
+                      <input type="checkbox" name="original-order" id="original-order" value="1" />
+                      С учетом оригиналов документов
+</label>                </div>
+
+                <p>
+                  Персональную конкурсную ситуацию отслеживайте в
+                  <a href='https://priem.tusur.ru' target='_blank'>Личном кабинете абитуриента</a>
+                </p>
+
+                <table class='table table-bordered text-small'>
+                  <thead>
+                    <tr>
+                      <th class='text-center' rowspan='2'>№</th>
+                      <th class='text-center' rowspan='2'>ФИО</th>
+                      <th class='text-center' colspan='3'>Вступительные испытания</th>
+                      <th class='text-center' rowspan='2'>Индивидуальные достижения</th>
+                      <th class='text-center' rowspan='2'>Сумма баллов</th>
+                      <th class='text-center' rowspan='2'>Категория зачисления</th>
+                      <th class='text-center' rowspan='2'>Документ</th>
+                      <th class='text-center' rowspan='2'>Статус заявления</th>
+                    </tr>
+                    <tr>
+                        <th class='text-center'>СП &quot;Информатика и вычислительная техника&quot;</th>
+                        <th class='text-center'>Иностранный язык</th>
+                        <th class='text-center'>Философия</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                      <tr class=''>
+                        <td class='text-center number'>1</td>
+                        <td class='fullname'>
+                          Адаричев Артур
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            77
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>2</td>
+                        <td class='fullname'>
+                          Бровкин Андрей Александрович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                        <td class='text-center'>
+                          7
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>3</td>
+                        <td class='fullname'>
+                          Васильев Иван
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            68
+                          </td>
+                        <td class='text-center'>
+                          37
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>4</td>
+                        <td class='fullname'>
+                          Васин Максим Алексеевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                        <td class='text-center'>
+                          9
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>5</td>
+                        <td class='fullname'>
+                          Винник Александр Евгеньевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>6</td>
+                        <td class='fullname'>
+                          Владимиров Михаил Владимирович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            47
+                          </td>
+                        <td class='text-center'>
+                          11
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>7</td>
+                        <td class='fullname'>
+                          Гедзенко Илья Евгеньевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            88
+                          </td>
+                        <td class='text-center'>
+                          39
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class='contest_border'>
+                        <td class='text-center number'>8</td>
+                        <td class='fullname'>
+                          Иванов Антон Андреевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            91
+                          </td>
+                        <td class='text-center'>
+                          68
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>9</td>
+                        <td class='fullname'>
+                          Кажмаганбетова Малика Аскаровна
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            100
+                          </td>
+                        <td class='text-center'>
+                          50
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>10</td>
+                        <td class='fullname'>
+                          Квасников Алексей Андреевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            80
+                          </td>
+                        <td class='text-center'>
+                          63
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>11</td>
+                        <td class='fullname'>
+                          Кобзев Вячеслав Михайлович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          32
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>12</td>
+                        <td class='fullname'>
+                          Козаченко Александр Игоревич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            71
+                          </td>
+                        <td class='text-center'>
+                          9
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>13</td>
+                        <td class='fullname'>
+                          Койшинов Тимур Саматулы
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          10
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>14</td>
+                        <td class='fullname'>
+                          Концов Артем Валерьевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                        <td class='text-center'>
+                          42
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>15</td>
+                        <td class='fullname'>
+                          Косых Сергей Андреевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            53
+                          </td>
+                        <td class='text-center'>
+                          32
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>16</td>
+                        <td class='fullname'>
+                          Куан Инабат
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            54
+                          </td>
+                        <td class='text-center'>
+                          42
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>17</td>
+                        <td class='fullname'>
+                          Кудрявцев Денис Николаевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                        <td class='text-center'>
+                          42
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>18</td>
+                        <td class='fullname'>
+                          Кузнецов Станислав Владимирович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            80
+                          </td>
+                        <td class='text-center'>
+                          12
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>19</td>
+                        <td class='fullname'>
+                          Лобанков Олег
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            42
+                          </td>
+                        <td class='text-center'>
+                          5
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>20</td>
+                        <td class='fullname'>
+                          Максимов Александр Евгеньевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            56
+                          </td>
+                        <td class='text-center'>
+                          36
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>21</td>
+                        <td class='fullname'>
+                          Медведев Артём Викторович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          39
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>22</td>
+                        <td class='fullname'>
+                          Мыльникова Евгения Вячеславовна
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                        <td class='text-center'>
+                          28
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>23</td>
+                        <td class='fullname'>
+                          Новоженников Владислав Сергеевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                        <td class='text-center'>
+                          22
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>24</td>
+                        <td class='fullname'>
+                          Носова Анастасия Леонидовна
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            76
+                          </td>
+                        <td class='text-center'>
+                          28
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>25</td>
+                        <td class='fullname'>
+                          Овсянникова Василиса Николаевна
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                        <td class='text-center'>
+                          24
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>26</td>
+                        <td class='fullname'>
+                          Орлов Эрнест Евгеньевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            74
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>27</td>
+                        <td class='fullname'>
+                          Перминов Петр Витальевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            56
+                          </td>
+                        <td class='text-center'>
+                          12
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>28</td>
+                        <td class='fullname'>
+                          Пираков Фаррухруз Джамшедович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            42
+                          </td>
+                        <td class='text-center'>
+                          46
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>29</td>
+                        <td class='fullname'>
+                          Помилуйко Артем Сергеевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            80
+                          </td>
+                        <td class='text-center'>
+                          5
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>30</td>
+                        <td class='fullname'>
+                          Пушкарев Кирилл Владимирович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>31</td>
+                        <td class='fullname'>
+                          Светлаков Михаил Олегович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            65
+                          </td>
+                        <td class='text-center'>
+                          34
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>32</td>
+                        <td class='fullname'>
+                          Сидоров Евгений Юрьевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            56
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>33</td>
+                        <td class='fullname'>
+                          Слезкин Артем Олегович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          47
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>34</td>
+                        <td class='fullname'>
+                          Суховерков Игорь Олегович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            42
+                          </td>
+                        <td class='text-center'>
+                          12
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>35</td>
+                        <td class='fullname'>
+                          Хан Кирилл Иннокентьевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            91
+                          </td>
+                        <td class='text-center'>
+                          67
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>36</td>
+                        <td class='fullname'>
+                          Харченко Игорь Константинович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            50
+                          </td>
+                        <td class='text-center'>
+                          12
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>37</td>
+                        <td class='fullname'>
+                          Храмцов Максим Владимирович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            69
+                          </td>
+                        <td class='text-center'>
+                          57
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>38</td>
+                        <td class='fullname'>
+                          Чеботаев Павел Владимирович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            52
+                          </td>
+                        <td class='text-center'>
+                          54
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>39</td>
+                        <td class='fullname'>
+                          Черникова Евгения
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            94
+                          </td>
+                        <td class='text-center'>
+                          81
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>40</td>
+                        <td class='fullname'>
+                          Шамаков Виктор Анатольевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          24
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>41</td>
+                        <td class='fullname'>
+                          Шарыпов Юрий Сергеевич
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            74
+                          </td>
+                        <td class='text-center'>
+                          22
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>42</td>
+                        <td class='fullname'>
+                          Шиянов Владислав Александрович
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            45
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Оригинал</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>43</td>
+                        <td class='fullname'>
+                          Юшин Олег
+                        </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            -
+                          </td>
+                          <td class='text-center'>
+                            42
+                          </td>
+                        <td class='text-center'>
+                          17
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Копия</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                  </tbody>
+                </table>
+
+
+                <h2 id='paid' class='margin-bottom-20'>
+                  <b>Конкурсный список лиц, подавших документы на платные места</b>
+                </h2>
+
+                <div class='btn-group margin-bottom-20' role='group'>
+                  <a class="first-priority-list btn btn-default" href="?kind_list=enrollment#paid">
+                    По текущему выбору
+</a>                  <a class="full-list btn btn-primary" href="?kind_list=all#paid">
+                    Полный список
+</a>                </div>
+
+                <div class='margin-bottom-20 js-contest-order'>
+                  <label class="paid-order-toggler js-paid-order-toggler" for="paid-order">
+                    <input type="checkbox" name="paid-order" id="paid-order" value="1" />
+                    С учетом оплаты
+</label>                </div>
+                <div class='modal' id='paidModal' tabindex='-1' role='dialog' aria-labelledby='myModalLabel'>
+                  <div class='modal-dialog' role='document'>
+                    <div class='modal-content'>
+                      <div class='modal-header'>
+                        <button type='button' class='close' data-dismiss='modal' aria-label='Close'><span aria-hidden='true'>&times;</span></button>
+                        <h4 class='modal-title' id='myModalLabel'>Способы оплаты обучения</h4>
+                      </div>
+                      <div class='modal-body'>
+                        <p>
+                          В связи с тем, что ТУСУР принял решение о возможности помесячной оплаты
+                          за обучение, как никогда стал актуальным способ онлайн-оплаты, не выходя из
+                          дома или места работы.
+                        </p>
+                        <p>
+                          В <a href='https://profile.tusur.ru/payments' target='_blank'>«Личном кабинете» студента реализован сервис онлайн-оплаты</a>
+                          обучения и проживания в общежитии с помощью банковских карт. Оплата услуг
+                          осуществляется с помощью банковских карт платёжных систем VISA или
+                          MasterCard.
+                        </p>
+                        <p>
+                          Онлайн-платежи производятся:
+                        </p>
+                        <ul>
+                          <li>за образование;</li>
+                          <li>за общежитие;</li>
+                          <li>за интернет.</li>
+                        </ul>
+                        <p>
+                          Все платежи осуществляются с помощью Банка-эквайера (ОАО «Газпромбанк»).
+                        </p>
+                        <p>
+                          Кроме того, никто не отменял обычные способы оплаты:
+                        </p>
+                        <ul>
+                          <li>перечислением через любой банк на расчетный счет ТУСУРа;</li>
+                          <li>в кассу ТУСУРа.</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <p>
+                  <a href='' class='payment_forms' data-toggle='modal' data-target='#paidModal'>Способы оплаты обучения</a>
+                </p>
+
+                <p>
+                  Персональную конкурсную ситуацию отслеживайте в
+                  <a href='https://priem.tusur.ru' target='_blank'>Личном кабинете абитуриента</a>
+                </p>
+
+                <table class='table table-bordered text-small'>
+                  <thead>
+                    <tr>
+                      <th class='text-center' rowspan='2'>№</th>
+                      <th class='text-center' rowspan='2'>ФИО</th>
+                      <th class='text-center' colspan='3'>Вступительные испытания</th>
+                      <th class='text-center' rowspan='2'>Индивидуальные достижения</th>
+                      <th class='text-center' rowspan='2'>Сумма баллов</th>
+                      <th class='text-center' rowspan='2'>Категория зачисления</th>
+                      <th class='text-center' rowspan='2'>Оплата</th>
+                      <th class='text-center' rowspan='2'>Статус заявления</th>
+                    </tr>
+                    <tr>
+                        <th class='text-center'>СП &quot;Информатика и вычислительная техника&quot;</th>
+                        <th class='text-center'>Иностранный язык</th>
+                        <th class='text-center'>Философия</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                      <tr class=''>
+                        <td class='text-center number'>1</td>
+                        <td class='fullname'>
+                          Васин Максим Алексеевич
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                        <td class='text-center'>
+                          9
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>2</td>
+                        <td class='fullname'>
+                          Гедзенко Илья Евгеньевич
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            88
+                          </td>
+                        <td class='text-center'>
+                          39
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>3</td>
+                        <td class='fullname'>
+                          Кажмаганбетова Малика Аскаровна
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            100
+                          </td>
+                        <td class='text-center'>
+                          50
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>4</td>
+                        <td class='fullname'>
+                          Кобзев Вячеслав Михайлович
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          32
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>5</td>
+                        <td class='fullname'>
+                          Койшинов Тимур Саматулы
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          10
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>6</td>
+                        <td class='fullname'>
+                          Косых Сергей Андреевич
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            53
+                          </td>
+                        <td class='text-center'>
+                          32
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>7</td>
+                        <td class='fullname'>
+                          Кузнецов Станислав Владимирович
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            80
+                          </td>
+                        <td class='text-center'>
+                          12
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>8</td>
+                        <td class='fullname'>
+                          Курлов Евгений Германович
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>9</td>
+                        <td class='fullname'>
+                          Мыльникова Евгения Вячеславовна
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                        <td class='text-center'>
+                          28
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>10</td>
+                        <td class='fullname'>
+                          Новоженников Владислав Сергеевич
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                        <td class='text-center'>
+                          22
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>11</td>
+                        <td class='fullname'>
+                          Овсянникова Василиса Николаевна
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                        <td class='text-center'>
+                          24
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>12</td>
+                        <td class='fullname'>
+                          Орлов Эрнест Евгеньевич
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            74
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>13</td>
+                        <td class='fullname'>
+                          Перминов Петр Витальевич
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            56
+                          </td>
+                        <td class='text-center'>
+                          12
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>14</td>
+                        <td class='fullname'>
+                          Пушкарев Кирилл Владимирович
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            62
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>15</td>
+                        <td class='fullname'>
+                          Светлаков Михаил Олегович
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            65
+                          </td>
+                        <td class='text-center'>
+                          34
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>16</td>
+                        <td class='fullname'>
+                          Хан Кирилл Иннокентьевич
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            91
+                          </td>
+                        <td class='text-center'>
+                          67
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>17</td>
+                        <td class='fullname'>
+                          Харченко Игорь Константинович
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            50
+                          </td>
+                        <td class='text-center'>
+                          12
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class=''>
+                        <td class='text-center number'>18</td>
+                        <td class='fullname'>
+                          Шиянов Владислав Александрович
+                        </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            На проверке
+                          </td>
+                          <td class='text-center'>
+                            45
+                          </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>
+                          -
+                        </td>
+                        <td class='text-center'>На общих основаниях</td>
+                        <td class='text-center original'>Нет</td>
+                        <td class='text-center'>Зарегистрировано</td>
+                      </tr>
+                      <tr class='contest '>
+                        <td class='text-center number'>19</td>
+                        <td class='fullname'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                      </tr>
+                      <tr class='contest '>
+                        <td class='text-center number'>20</td>
+                        <td class='fullname'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                      </tr>
+                      <tr class='contest '>
+                        <td class='text-center number'>21</td>
+                        <td class='fullname'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                      </tr>
+                      <tr class='contest '>
+                        <td class='text-center number'>22</td>
+                        <td class='fullname'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                      </tr>
+                      <tr class='contest '>
+                        <td class='text-center number'>23</td>
+                        <td class='fullname'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                      </tr>
+                      <tr class='contest  contest_border'>
+                        <td class='text-center number'>24</td>
+                        <td class='fullname'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                          <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                        <td class='text-center'></td>
+                      </tr>
+                  </tbody>
+                </table>
+
+
+
+            </div>
+          </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+      <div class='footer'>
+
+  <div class='container'>
+    <div class='row'>
+
+      <div class='col-lg-8 col-md-7 col-sm-6 col-xs-12 copyrights'>
+        <p>
+          Подготовка кадров высшей научной квалификации ТУСУР
+        </p>
+        <p>
+          <span class='glyphicon glyphicon-map-marker'></span>
+          634050, г. Томск, пр. Ленина, 40,
+          <span class='glyphicon glyphicon-phone-alt'></span>
+          (3822)&nbsp;70-15-23,
+          <span class='glyphicon glyphicon-print'></span>
+          (3822)&nbsp;51-32-62
+        </p>
+      </div>
+      <div class='col-lg-4 col-md-5 col-sm-6 col-xs-12 social'>
+        <p>
+          Мы в социальных сетях
+          <a class='vk' href='https://vk.com/science.tusur' target='_blank'>ВКонтакте</a>
+        </p>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+      <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter47344452 = new Ya.Metrika({
+                    id:47344452,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/47344452" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+  </body>
+</html>
+
